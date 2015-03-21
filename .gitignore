@@ -1,6 +1,9 @@
 #reveal files
 src/lib
 
+#distribution files
+dist
+
 # Logs
 logs
 *.log

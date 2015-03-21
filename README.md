@@ -1,25 +1,5 @@
-# Reveal Js Template
+# Getting Groovy on Android
 
-You have just created a new reveal js project.
+Presentation for GDG-TC Dev Fest March 21 2015
 
-Please run
-
-    `npm install`
-    `bower install`
-
-Run `grunt help` for a list of commands you can run.
-
-    project-root
-          |
-          +- src
-              |
-              |
-              +- css
-              |   |
-              |   +- // CSS Files Here
-              |
-              +-image
-              |   |
-              |   +- // Place Image Assets Here
-              |
-              +-index.html // Place Presentation HTML Here
+pieces029.github.io/GDG-DevFest-2015
