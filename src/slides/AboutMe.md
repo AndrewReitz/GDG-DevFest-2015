@@ -1,6 +1,6 @@
 # About Me
 
-## Anroid Developer @SmartThings
+## Android Developer @SmartThings
 
 [@andrewreitz_](//twitter.com/andrewreitz_)
 
