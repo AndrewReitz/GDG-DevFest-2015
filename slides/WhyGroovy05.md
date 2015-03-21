@@ -16,3 +16,8 @@ try {
 }
 System.out.println(buffer.toString());
 ```
+
+Note:
+Have to look it up every time.
+Commons-IO helps, but not enough
+Missing try catch around close (auto close in java 7 but not supported in Android)
